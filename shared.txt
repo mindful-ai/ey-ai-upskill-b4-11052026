@@ -61,4 +61,6 @@ def chat():
         except Exception as e:
             print("Chat failed with message: ", e)
 
--------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------- 13-langchain-overview -----------------------------------------------------------------------------
+
+pip install openai langchain langchain-openai langchain_community langgraph
