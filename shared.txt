@@ -64,3 +64,5 @@ def chat():
 ------------------------------- 13-langchain-overview -----------------------------------------------------------------------------
 
 pip install openai langchain langchain-openai langchain_community langgraph
+
+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
