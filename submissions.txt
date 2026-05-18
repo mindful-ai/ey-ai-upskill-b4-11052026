@@ -1,0 +1,24 @@
+Sharepoint: 
+https://probitsin-my.sharepoint.com/:f:/g/personal/sankalana_m_nouvelle-approach_com/IgCjVtfPeVJFRZzox-40hswWAVjdXyfxZktszrfNvbTzjVw?e=61dDu4
+
+<empID>_vidhit
+  project_01_aboc
+    - zip of entire project
+    - snapsots
+
+Zip the entire thing and upload it
+
+
+-----------------------------------------------------------------------------------------------------
+Project: ABOC
+-----------------------------------------------------------------------------------------------------
+
+Run the the project in 28-capstone-project/27v1.2-aboc-upgrade
+Using:
+- OpenAI key and LLM calls
+- Fix any issues
+
+Upload:
+- Zip the entire project
+- Snapshot of rich-text CLI run on any scenario
+- Streamlit interface - run a scenraio 
