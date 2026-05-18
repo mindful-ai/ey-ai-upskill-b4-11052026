@@ -4,7 +4,15 @@ https://probitsin-my.sharepoint.com/:f:/g/personal/sankalana_m_nouvelle-approach
 <empID>_vidhit
   project_01_aboc
     - zip of entire project
-    - snapsots
+    - snapshots
+  project_02_cis
+    - zip of entire project
+    - snapshots
+  project_03_mcp
+    - zip of entire project
+    - snapshots
+  project_04_flowise
+    - link to the project
 
 Zip the entire thing and upload it
 
@@ -22,3 +30,33 @@ Upload:
 - Zip the entire project
 - Snapshot of rich-text CLI run on any scenario
 - Streamlit interface - run a scenraio 
+
+-----------------------------------------------------------------------------------------------------
+Project: CIS Agent
+-----------------------------------------------------------------------------------------------------
+
+Run the the project in 2-capstone-project/cis-basic
+
+- Study README.md for step by step execution
+
+
+Upload:
+
+- Zip the entire project and upload, make sure to empty vectorstore/
+- Upload a snapshot of a query of your choice - query should be inspired by a real scenario you have faced
+- If it is lengthy, upload a text file containing the log
+
+-----------------------------------------------------------------------------------------------------
+Project: MCP
+-----------------------------------------------------------------------------------------------------
+
+Run project 31-model-context-protocol/file-system-mcp-setup
+  - Zip the project and upload
+  - Capture the run-log in a file and upload
+
+
+-----------------------------------------------------------------------------------------------------
+Project: RAG Using Flowise
+-----------------------------------------------------------------------------------------------------
+
+
